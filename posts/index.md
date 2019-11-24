@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: All Posts
-excerpt: "A List of Posts"
+title: Research Process
+excerpt: "How did we decide on a solution?"
 comments: false
 ---
