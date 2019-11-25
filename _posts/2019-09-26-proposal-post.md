@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Group Project Proposal"
+title: "Proposal"
 date: 2019-09-26
 ---
 
