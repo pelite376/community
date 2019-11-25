@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Contextual Inquiry Plan"
-date: 2019-09-26
+title: "Paper Prototype"
+date: 2019-10-31
 ---
 
 # Overview:
